@@ -16,10 +16,7 @@ const Home = () => {
       console.log(error)
     })
   },[search])
-  // const searchFun = ()=>{
   
-  //   setSearch("")
-  // }
   return (
     <div className='homeContainer'>
      <nav>
